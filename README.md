@@ -1,5 +1,5 @@
 ## Hi
-> [color=gray] I'm studying for master degree now.
+> I'm studying for master degree now.
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Joyce-HYT&show_icons=true&count_private=true&theme=nord)
 
